@@ -13,6 +13,7 @@ Libraries used:
 -> os - for reading all the images stored in the Bg Images folder.
 
 Functions ->
+
  -> d : changes the bg images in forward direction
  
  -> a : changes the bg images in backward direction
